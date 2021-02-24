@@ -5,7 +5,7 @@
 ---
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
-			
+
 Please feel free to use this in your classrooms,
 make video/picture/text adaptations,
 or modify the source code!

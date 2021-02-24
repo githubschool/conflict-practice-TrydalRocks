@@ -15,11 +15,15 @@ body{
 
 }
 
-a{
-	color: #999;
+
 }
+
 a:hover{
-	color: #ddd;
+	color: #fff;
+}
+
+a:hover{
+
 }
 
 #intro_container, #outro_container{
